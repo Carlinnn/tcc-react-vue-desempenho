@@ -1,0 +1,10 @@
+{
+  "name": "tcc-experimento",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "lighthouse": "13.6.0",
+    "puppeteer": "25.17.0"
+  }
+}
